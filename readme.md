@@ -1,6 +1,6 @@
 # 🚀 Nouvelle version disponible !  
 
-![Version](https://img.shields.io/badge/version-V.1.2.2-blue.svg) ![Status](https://img.shields.io/badge/status-stable-success.svg)  
+![Version](https://img.shields.io/badge/version-V.1.2.3-red.svg) ![Status](https://img.shields.io/badge/status-stable-success.svg)  
 
 ## 📌 Changelog  
 ✅ **Changements récents :**  
